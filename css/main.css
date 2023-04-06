@@ -1,0 +1,350 @@
+body{
+  
+}
+
+body .margin {
+  position: absolute;
+  width: 1920px;
+  height: 300px;
+  left: 0px;
+  top: 8464.8px;
+  
+  background: #FFFFFF;
+}
+
+
+
+body .about-text {
+
+}
+
+body .about-text .title {
+  position: absolute;
+  width: 283px;
+  height: 101.37px;
+  left: 100px;
+  top: 1273.04px;
+
+}
+
+body .about-text .sub-title {
+  position: absolute;
+  width: 796px;
+  height: 140px;
+  left: 501.41px;
+  top: 1253.72px;
+
+}
+
+body .about-text .about-text-bt {
+  position: absolute;
+  width: 109.13px;
+  height: 84.75px;
+  left: 1708.53px;
+  top: 1308.97px;
+  
+}
+
+/* 이미지 */
+
+
+body .img-left {
+  position: absolute;
+  width: 830px;
+  height: 830px;
+  left: 100px;
+  top: 1543.72px;
+}
+
+body .img-right {
+  position: absolute;
+  width: 830px;
+  height: 830px;
+  left: 990px;
+  top: 1543.72px;
+}
+
+/* 베스트셀러 */
+
+body .best-seller {
+  position: absolute;
+  width: 210px;
+  height: 28px;
+  left: 100px;
+  top: 2573.72px;
+}
+
+body .img1 {
+  position: absolute;
+  width: 435px;
+  height: 503.37px;
+  left: 100px;
+  top: 2651.35px;
+}
+
+body .img2 {
+  position: absolute;
+  width: 435px;
+  height: 503.37px;
+  left: 565px;
+  top: 2651.35px;
+}
+
+body .img3 {
+  position: absolute;
+  width: 727.98px;
+  height: 1071.29px;
+  left: 100px;
+  top: 3304.72px;
+}
+
+body .img4 {
+  position: absolute;
+  width: 435px;
+  height: 503.37px;
+  left: 920px;
+  top: 3770.35px;
+}
+
+body .img5 {
+  position: absolute;
+  width: 435px;
+  height: 503.37px;
+  left: 1385px;
+  top: 3770.35px;
+}
+
+body .mood {
+  position: absolute;
+  width: 800.43px;
+  height: 1057.93px;
+  left: 1119.57px;
+  top: 2651.35px;
+}
+
+
+/* press */
+
+body .press {
+  position: absolute;
+  width: 1920px;
+  height: 700px;
+  left: -4.35px;
+  top: 4576.01px;
+}
+
+
+body .press_text {
+  position: absolute;
+  width: 1238px;
+  height: 284.79px;
+  left: 341px;
+  top: 4783.62px;
+}
+
+body .prees_bt {
+  position: absolute;
+  width: 109.13px;
+  height: 84.75px;
+  left: 1710.87px;
+  top: 5090.93px;
+}
+
+
+/* product */
+
+body .product_text1 {
+  position: absolute;
+  width: 718px;
+  height: 279.21px;
+  left: 237.65px;
+  top: 5616.93px;
+}
+
+body .product_text2 {
+  position: absolute;
+  width: 697px;
+  height: 418.28px;
+  left: 1123px;
+  top: 6695.69px;
+}
+
+body .product_img1 {
+  position: absolute;
+  width: 774.24px;
+  height: 1012.34px;
+  left: 1045.76px;
+  top: 5476.01px;
+}
+
+body .product_img2 {
+  position: absolute;
+  width: 774.24px;
+  height: 1012.34px;
+  left: 0px;
+  top: 6165.77px;
+  
+}
+
+body .product_img3 {
+  position: absolute;
+  width: 465.15px;
+  height: 608.19px;
+  left: 490.5px;
+  top: 6809.88px;
+}
+
+
+/* Calendar */
+
+
+body .calendar_title {
+  position: absolute;
+  width: 423px;
+  height: 114px;
+  left: 749px;
+  top: 7618.07px;
+}
+
+body .calendar_1 {
+  position: absolute;
+  width: 460px;
+  height: 648px;
+  left: 0px;
+  top: 7816.8px;
+  
+}
+
+body .calendar_2 {
+  position: absolute;
+  width: 460px;
+  height: 648px;
+  left: 487px;
+  top: 7816.8px;
+}
+
+body .calendar_3 {
+  position: absolute;
+  width: 460px;
+  height: 648px;
+  left: 974px;
+  top: 7816.8px;
+  
+}
+
+body .calendar_4 {
+  position: absolute;
+  width: 460px;
+  height: 648px;
+  left: 1461px;
+  top: 7816.8px;
+}
+
+
+/* footer
+
+
+body .footer_bg {
+  position: absolute;
+  width: 1920px;
+  height: 335.48px;
+  left: 0px;
+  top: 8759px;
+  
+  background: #F6F6F6;
+}
+
+body .footer_logo {
+  position: absolute;
+  width: 113.46px;
+  height: 113.46px;
+  left: 100px;
+  top: 8870.01px;
+}
+
+body .footer_Customer {
+  position: absolute;
+  width: 189px;
+  height: 170.46px;
+  left: 303.46px;
+  top: 8838.88px;
+  
+}
+
+body .footer_Membership {
+  position: absolute;
+  width: 204px;
+  height: 97.73px;
+  left: 1171px;
+  top: 8838.88px;
+}
+
+body .footer_Info {
+  position: absolute;
+  width: 103px;
+  height: 125.73px;
+  left: 1475px;
+  top: 8838.88px;
+}
+
+body .footer_Contactus {
+  position: absolute;
+  width: 121px;
+  height: 125.73px;
+  left: 1699px;
+  top: 8838.88px;
+} */
+
+
+
+
+/* header */
+
+header {
+
+  width: 1100px;
+  margin: 0 auto;
+  position: absolute;
+  
+}
+
+header .bg {
+  width: 1920px;
+  height: 1070px;
+  left: 0px;
+  top: 30px;
+  margin: 0px;
+
+  background: url(/img/bg.png)
+}
+
+header .inner {
+
+}
+
+header .logo {
+  position: absolute;
+  width: 132px;
+  height: 73px;
+  left: 894px;
+  top: 45px;
+}
+
+/* sub-menu-left */
+
+header .sub-menu-left {
+  position: absolute;
+  width: 486px;
+  height: 42px;
+  left: 100px;
+  top: 60.5px;
+}
+
+header .sub-menu-right {
+  position: absolute;
+  width: 240px;
+  height: 42px;
+  left: 1602.03px;
+  top: 60.5px;
+
+}
